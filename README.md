@@ -83,6 +83,8 @@ windows下推荐安装tex live，如果想要在线编辑，也可以使用overl
 
 行间公式无标号用\\[...]\
 
+对于复杂公式推荐使用[Mathpix](https://mathpix.com/)，它可以直接将图片转化为Latex公式
+
 
 
 ## 参考文献
@@ -90,6 +92,6 @@ windows下推荐安装tex live，如果想要在线编辑，也可以使用overl
 bibtex最好在谷歌学术上找，百度学术上错误较多。
 
 
-
+持续更新中......
 
 
